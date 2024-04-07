@@ -13,7 +13,7 @@ Follow these steps to install the necessary software and packages:
 1. Install software requirements:
 
 ```bash
-apt update && apt install curl git nano python3 python3-pip net-tools sudo
+apt update && apt install -y curl git nano python3 python3-pip net-tools sudo
 ```
 
 2. Install [speedtest-cli](https://www.speedtest.net/apps/cli):
